@@ -4,7 +4,7 @@ específic per a ordinadors, armari rack amb switch i router, rosetes
 RJ45 a la paret per a una xarxa d'àrea local, eixida a internet,
 pissarra digital i impressora en xarxa.
 ## Autor
-- NOMALUMNE (@USUARI)
+- LORENA (@Arimoi2)
 ## Rols simulats
 - Rol A — Coordinació i pressupostos
 - Rol B — Instal·lació física i xarxa
